@@ -1,0 +1,11 @@
+.container{
+max-width: 1200px;
+margin: 300px auto;
+background-color: aquamarine;
+padding:30px;
+}
+
+.slider-line{
+    background-color: bisque;
+    position: relative;
+}
